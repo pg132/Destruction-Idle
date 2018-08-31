@@ -88,10 +88,3 @@ function newPlayer(){
 
 
 
-function getDPS(entity){
-  if (entity 
-  
-  
-  
-  
-}
